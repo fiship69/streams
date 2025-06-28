@@ -1,15 +1,15 @@
 {
   "tvn": {
     "url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?WebM3UCL",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_TVN_2021.svg/200px-Logo_TVN_2021.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/960px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png"
   },
   "mega": {
     "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?WebM3UCL",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mega_logo_2020.svg/200px-Mega_logo_2020.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/960px-Logotipo_de_Mega_%282015-2020%29.png"
   },
   "chilevision": {
     "url": "https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/27c6649c-fc2a-4177-9b82-ea1aeca5e5e2:CBF2/master.m3u8?aid=598861d8cc3c169b2236f987&uid=jMLa5Q0JI2QMOq6U7jk9AmJEdWqegrAc&sid=bvEPMQCqQrlLZR4ZMJvd5OmIcAhaL2Mc&pid=gAUGO5c3z29CG3L2SWRF5BvLeYMm32br&pid_dvr=Q1dM54bV0ef6DuN4537JcHPbCkGG1hf6&ref=https%3A%2F%2Fwww.chilevision.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=Vq6VKGsSFIHcuD1q71C0kqulC0x4xBvPmDzhNMvGr4sUAYbL07aTWcV7tqoIo23ER97V96KWgWj&adInsertionGoogleStreamId=27c6649c-fc2a-4177-9b82-ea1aeca5e5e2%3ACBF2&es=cl-a9-p-e-pt11.cdn.mdstrm.com&ote=1751149988335&ot=cHkKJuK2761qwDYHeeer0w&proto=https&pz=cl",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chilevisión_logo_2021.svg/200px-Chilevisión_logo_2021.svg.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png"
   },
   "canal13": {
     "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/57541504-998b-4c7a-8eaa-8257d6011a82:MRN2/master.m3u8",
