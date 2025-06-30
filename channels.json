@@ -1,7 +1,11 @@
 {
+        "tv+": {
+    "url": "https://jireh-7-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8",
+    "logo": "https://tvmas.tv/_templates/desktop/includes/img/tv-mas.svg"
+  },
     "red": {
     "url": "blob:https://m3u.cl/e245e698-b8cd-4c2d-b158-8084ed8a39f5",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/960px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png"
+    "logo": "https://cdn.storage.foromedios.com/monthly_2021_05/large.1955925048_LaRed(Chile)Logo2021.png.ba6f0edd9f3366c1a3d45ef126a0417e.png"
   },
   "tvn": {
     "url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?WebM3UCL",
