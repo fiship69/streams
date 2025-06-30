@@ -1,4 +1,8 @@
 {
+    "red": {
+    "url": "blob:https://m3u.cl/e245e698-b8cd-4c2d-b158-8084ed8a39f5",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/960px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png"
+  },
   "tvn": {
     "url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?WebM3UCL",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/960px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png"
@@ -12,7 +16,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png"
   },
   "canal13": {
-    "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/5f86e76f-6eaf-4515-aedc-788879642aee:SCL/master.m3u8",
+    "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/fabb95ad-11b0-412f-9812-3dd2ea3a6b43:SCL/master.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/960px-Emblema_del_Canal_13_Chile.png"
   }
 }
