@@ -1,10 +1,10 @@
 {
-        "tv+": {
+  "tv+": {
     "url": "https://jireh-7-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
     "category": "Entretenimiento"
   },
-    "ucv": {
+  "ucv": {
     "url": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ucvtv2008oficial.png/960px-Ucvtv2008oficial.png",
     "category": "Entretenimiento"
@@ -16,15 +16,37 @@
   },
   "mega": {
     "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?WebM3UCL",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/960px-Logotipo_de_Mega_%282015-2020%29.png","category": "Noticias"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/960px-Logotipo_de_Mega_%282015-2020%29.png",
+    "category": "Noticias"
   },
   "chilevision": {
-    "url": "https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/32b392db-5460-4599-95fd-819f7e7b7947:DLS/master.m3u8?aid=598861d8cc3c169b2236f987&uid=jMLa5Q0JI2QMOq6U7jk9AmJEdWqegrAc&sid=E2bGHYSdSUCWnoD1y4IuFYKAtxigUTbE&pid=3OFfsXua9iZFcVrSLhFuG9YAwz7YDGxe&pid_dvr=UeIyi5bQNrzZ3UvJZB7JTyUAUqhfWQ5C&ref=https%3A%2F%2Fwww.chilevision.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=pnjJWJ9hvexSn1lVzqZUbDw5kCHMO7zzR13GJSrCIg6OOHZ4zOwOqGp2qAc9PLBb68gE8L8ZHFI&adInsertionGoogleStreamId=32b392db-5460-4599-95fd-819f7e7b7947%3ADLS&es=cl-a9-p-e-pt11.cdn.mdstrm.com&ote=1751316859847&ot=-8ReFVAwC9tq4SiM097CEQ&proto=https&pz=cl",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png","category": "Noticias"
+    "url": "https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/32b392db-5460-4599-95fd-819f7e7b7947:DLS/master.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png",
+    "category": "Noticias"
   },
   "canal13": {
     "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/fabb95ad-11b0-412f-9812-3dd2ea3a6b43:SCL/master.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/960px-Emblema_del_Canal_13_Chile.png",
     "category": "Noticias"
+  },
+  "rec": {
+    "url": "https://unlimited1-cl-isp.dps.live/rec/rec.smil/rec/livestream1/chunks.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rec_tv_logo_2020.png",
+    "category": "Entretenimiento"
+  },
+  "nacionaltv": {
+    "url": "https://unlimited6-cl.dps.live/nacionaltv/nacionaltv.smil/nacionaltv/livestream1/chunks.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_nacional_tv.png",
+    "category": "Cultural"
+  },
+  "teletrak": {
+    "url": "https://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/chunks.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoTeletrak.png",
+    "category": "Deportes"
+  },
+  "tvsenado": {
+    "url": "https://unlimited1-cl.dps.live/senado/senado.smil/senado/livestream1/chunks.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TV_Senado_Chile_logo.png",
+    "category": "Cultural"
   }
 }
