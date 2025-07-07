@@ -16,11 +16,11 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/960px-Logotipo_de_Mega_%282015-2020%29.png"
   },
   "chilevision": {
-    "url": "https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/32b392db-5460-4599-95fd-819f7e7b7947:DLS/master.m3u8?aid=598861d8cc3c169b2236f987&uid=jMLa5Q0JI2QMOq6U7jk9AmJEdWqegrAc&sid=E2bGHYSdSUCWnoD1y4IuFYKAtxigUTbE&pid=3OFfsXua9iZFcVrSLhFuG9YAwz7YDGxe&pid_dvr=UeIyi5bQNrzZ3UvJZB7JTyUAUqhfWQ5C&ref=https%3A%2F%2Fwww.chilevision.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=pnjJWJ9hvexSn1lVzqZUbDw5kCHMO7zzR13GJSrCIg6OOHZ4zOwOqGp2qAc9PLBb68gE8L8ZHFI&adInsertionGoogleStreamId=32b392db-5460-4599-95fd-819f7e7b7947%3ADLS&es=cl-a9-p-e-pt11.cdn.mdstrm.com&ote=1751316859847&ot=-8ReFVAwC9tq4SiM097CEQ&proto=https&pz=cl",
+    "url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png"
   },
   "canal13": {
-    "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/fabb95ad-11b0-412f-9812-3dd2ea3a6b43:SCL/master.m3u8",
+    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/960px-Emblema_del_Canal_13_Chile.png"
   }
 }
