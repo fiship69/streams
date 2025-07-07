@@ -1,7 +1,7 @@
 { 
   "tv+": {
     "url": "https://jireh-7-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/archive/9/9b/20210113211914%21TV%2B_%282018%29.png",
     "category": "Entretenimiento"
   },
   "ucv": {
@@ -19,11 +19,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/960px-Logotipo_de_Mega_%282015-2020%29.png",
     "category": "Noticias"
   },
-  "chilevision": {
-    "url": "https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/32b392db-5460-4599-95fd-819f7e7b7947:DLS/master.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png",
-    "category": "Noticias"
-  },
+ 
   "canal13": {
     "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/330e2672-c5a0-4f10-8d97-de325d90cdd4:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/960px-Emblema_del_Canal_13_Chile.png",
@@ -55,11 +51,7 @@
     "logo": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
     "category": "Entretenimiento"
   },
-  "recuerdosretroradiotv": {
-    "url": "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
-    "category": "Entretenimiento"
-  },
+
   "radiofindelmundotv": {
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png",
@@ -75,36 +67,14 @@
     "logo": "https://cdn.m3u.cl/logo/1435__Cine.png",
     "category": "General"
   },
-  "pridetvlatam": {
-    "url": "https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",
-    "category": "Entretenimiento"
-  },
+
   "monitv": {
     "url": "https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
     "category": "Entretenimiento"
   },
-  "kanadetv": {
-    "url": "https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1466_Kanade_TV.png",
-    "category": "Entretenimiento"
-  },
-  "energeekfan": {
-    "url": "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png",
-    "category": "General"
-  },
-  "energeekretro": {
-    "url": "https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png",
-    "category": "General"
-  },
-  "energeekradio": {
-    "url": "https://xui-backend.energeek.cl/live/11/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png",
-    "category": "Música"
-  },
+
+
   "aniretro": {
     "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
@@ -115,11 +85,7 @@
     "logo": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
     "category": "Entretenimiento"
   },
-  "portalfoxmix": {
-    "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
-    "category": "General"
-  },
+
   "ruidostv": {
     "url": "https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/13_Ruidos_TV.png",
@@ -160,11 +126,7 @@
     "logo": "https://cdn.m3u.cl/logo/1611_Suyai_Radio.png",
     "category": "Música"
   },
-  "crtv": {
-    "url": "https://videolatam.com:3558/hybrid/play.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1098_CRTV.png",
-    "category": "Entretenimiento"
-  },
+
   "cdr": {
     "url": "https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1287_CDR.png",
@@ -180,11 +142,7 @@
     "logo": "https://cdn.m3u.cl/logo/1693_EstacionRadiotv.png",
     "category": "Entretenimiento"
   },
-  "abajoelalineatv": {
-    "url": "https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1690_Abajo_e_la_linea_TV.png",
-    "category": "Entretenimiento"
-  },
+
   "elcanalfeliz": {
     "url": "http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1687_El_Canal_Feliz.png",
@@ -195,16 +153,8 @@
     "logo": "https://cdn.m3u.cl/logo/1682_Frecuencia_Cultural.png",
     "category": "General"
   },
-  "concertfreaks": {
-    "url": "https://srv5.zcast.com.br/alonso9520/alonso9520/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1680_Concert_Freaks.png",
-    "category": "General"
-  },
-  "vhs": {
-    "url": "https://tv.arkeo.cl:19360/8138/8138.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1679_VHS.png",
-    "category": "General"
-  },
+
+
   "ritoquefmtv": {
     "url": "https://v2.tustreaming.cl/unetev/index.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1678_RitoqueFM_TV.png",
@@ -255,21 +205,13 @@
     "logo": "https://cdn.m3u.cl/logo/1669_Radio_Zona.png",
     "category": "Música"
   },
-  "versotv": {
-    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/verso/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1668_Verso_TV.png",
-    "category": "Entretenimiento"
-  },
+
   "lachilenatv": {
     "url": "https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png",
     "category": "Entretenimiento"
   },
-  "zonasurtv": {
-    "url": "https://paneltv.online:1936/ewhyzzdphg/ewhyzzdphg/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1664_Zona_Sur_TV.png",
-    "category": "Entretenimiento"
-  },
+
   "elhashtagtv": {
     "url": "https://5a1178b42cc03.streamlock.net:443/HASHTAG/HASHTAG/playlist.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1661_El_Hashtag_TV.png",
@@ -300,16 +242,7 @@
     "logo": "https://cdn.m3u.cl/logo/1630_Poesia_TV.png",
     "category": "Entretenimiento"
   },
-  "radiovibra": {
-    "url": "https://stream.gia.tv/giatv/giatv-vibra/vibra/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1628_Radio_Vibra.png",
-    "category": "Música"
-  },
-  "opinionsurseries": {
-    "url": "https://stream.gia.tv/giatv/giatv-opinionsurs/opinionsurs/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1618_Opinionsur_Series.png",
-    "category": "General"
-  },
+
   "zoomtecnologicoplus": {
     "url": "https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png",
@@ -330,11 +263,7 @@
     "logo": "https://cdn.m3u.cl/logo/1473_Music_PUQ.png",
     "category": "General"
   },
-  "galactikamedia": {
-    "url": "https://oracle.streaminghd.cl/galactika-1/galactika-1/playlist.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/1282_Galactika_Media.png",
-    "category": "General"
-  },
+
   "hipertv": {
     "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/432_HiperTV.png",
@@ -365,11 +294,7 @@
     "logo": "https://cdn.m3u.cl/logo/458_TV_.png",
     "category": "Entretenimiento"
   },
-  "tvn-reuters": {
-    "url": "https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL",
-    "logo": "https://cdn.m3u.cl/logo/454_TVN___Reuters.png",
-    "category": "Entretenimiento"
-  },
+
   "tvn": {
     "url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/452_TVN.png",
