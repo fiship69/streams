@@ -65,25 +65,25 @@
   "+cine": {
     "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1435__Cine.png",
-    "category": "General"
+    "category": "Cine"
   },
 
   "monitv": {
     "url": "https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
-    "category": "Entretenimiento"
+    "category": "Animación"
   },
 
 
   "aniretro": {
     "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
-    "category": "General"
+    "category": "Anime"
   },
   "ztvanime": {
     "url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
-    "category": "Entretenimiento"
+    "category": "Anime"
   },
 
   "ruidostv": {
@@ -94,7 +94,7 @@
   "eternalmetal": {
     "url": "https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/1312_Eternal_Metal.png",
-    "category": "General"
+    "category": "Musica"
   },
   "latinostv": {
     "url": "https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8?PlaylistM3UCL",
