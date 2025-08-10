@@ -2,27 +2,27 @@
   "tv+": {
     "url": "https://jireh-7-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/archive/9/9b/20210113211914%21TV%2B_%282018%29.png",
-    "category": "Abiertos"
+    "category": "General"
   },
   "ucv": {
     "url": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ucvtv2008oficial.png/960px-Ucvtv2008oficial.png",
-    "category": "Abiertos"
+    "category": "General"
   },
   "tvn": {
     "url": "https://cl-a3-p-e-uy6.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/-4KOuBUDTUaXhzNVqMNjsQ/stream/9c696bad-dba5-4b76-9a4a-cc61b9d19a49:CBF2/master.m3u8?aid=51c2f628b440bd797900051f&uid=jMLa5Q0JI2QMOq6U7jk9AmJEdWqegrAc&sid=7ydtRA0xiroNKW6zu8jIxEq4uQ9XgZaG&pid=FWv6LlrPoGFDj0y6KbcLXC6pulDh0YFP&pid_dvr=tzSjrfQdEGVOyPXUDcwmsTCfCxOx5WrU&ref=https%3A%2F%2Flive.tvn.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=XoLTVtTTwEEz6S0FmzPfnAWunMNey396qkwGwsDgVbBZBKcIDBqBzvUbINNPDxILP6eEFDPIHdm&adInsertionGoogleStreamId=9c696bad-dba5-4b76-9a4a-cc61b9d19a49%3ACBF2&es=cl-a3-p-e-uy6.cdn.mdstrm.com&ote=1754445356216&ot=0tNj8OPcn8NGP8S183Sb3g&proto=https&pz=cl",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/960px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png",
-    "category": "Abiertos"
+    "category": "General"
   },
   "mega": {
     "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?WebM3UCL",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/960px-Logotipo_de_Mega_%282015-2020%29.png",
-    "category": "Abiertos"
+    "category": "General"
   },
   "canal13": {
     "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/330e2672-c5a0-4f10-8d97-de325d90cdd4:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/960px-Emblema_del_Canal_13_Chile.png",
-    "category": "Abiertos"
+    "category": "General"
   },
   "retroplustv": {
     "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL",
