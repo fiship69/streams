@@ -20,10 +20,18 @@
     "category": "General"
   },
   "canal13": {
-    "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/44764b71-0d64-4456-a09d-dabf02117df3:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2525600.m3u8",
+    "url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/f79a209a-b0be-4b7b-a4d3-50d21e2056ad:SCL2/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/960px-Emblema_del_Canal_13_Chile.png",
     "category": "General"
   },
+
+  ,
+  "cnnchile": {
+    "url": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
+    "category": "General"
+  },
+  
   "retroplustv": {
     "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL",
     "logo": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
